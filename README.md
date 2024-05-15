@@ -6,6 +6,10 @@ Atualmente estou investindo tempo e dedicação no aprendizado em TI, nas áreas
 
 Também tenho me dedicado também ao estudo e **implementação do uso das IA** generativas como o **chatGTP da OpenAI** e o **Gemini do Google** na solução de problemas.
 
+![image](https://github.com/SeverinoJSilva/SeverinoJsilva/assets/102735338/7dfa66dd-54ba-4590-8121-aa09b375ed40)
+
+
+
 ### Habilidades 🛠️ ⚙️
 _______
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
