@@ -45,7 +45,7 @@ ______
 
 ### Alguns projetos e Códigos
 ___
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/severinosilva)[![Gitghub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeverinoJSilva)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/severinosilva)[![Gitghub](https://img.shields.io/badge/GitHub-100000?style=for-the-
 
 
 ### Contato
